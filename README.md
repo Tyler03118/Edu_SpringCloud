@@ -1,4 +1,4 @@
-# 🏫 Silicon Education Platform
+# 🏫 Bucky Education Platform
 
 
 <img width="1000" alt="image" src="https://github.com/Tyler03118/Edu_SpringCloud/assets/113784268/6c129f6a-3c06-488f-9f3d-4b8f7c24cbce">
