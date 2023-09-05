@@ -42,6 +42,9 @@ guli-web
 | SpringCloud        | Microservices | https://spring.io/projects/spring-cloud         |
 | SpringCloudAlibaba | Components | https://spring.io/projects/spring-cloud-alibaba |
 | MyBatis-Plus       | ORM Framework     | https://mp.baomidou.com                         |
+| Mysql   | Database            | https://www.mysql.com                    |
+| Redis   | Database for cache        | https://redis.io/download                |
+| Nginx   | Loadbalance          | http://nginx.org/en/download.html        |
 | OSS                | Object Storage Service | https://github.com/aliyun/aliyun-oss-java-sdk   |
 | EasyExcel          | Excel Manipulation | https://www.yuque.com/easyexcel/doc             |
 | Docker             | Container | https://www.docker.com                          |
